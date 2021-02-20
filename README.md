@@ -24,5 +24,6 @@ onDestroy – Called when Activity is not in background
 
 #### Video
 
-![4yrkmr](https://user-images.githubusercontent.com/32029236/108587714-2f7fac00-737b-11eb-8048-1c19d711217c.gif)
+![4yrkmr](https://user-images.githubusercontent.com/32029236/108587714-2f7fac00-737b-11eb-8048-1c19d711217c.gif) | ![4yrlpl](https://user-images.githubusercontent.com/32029236/108587791-c0ef1e00-737b-11eb-96bc-53f2a2e64f4e.gif)
+
 
