@@ -20,3 +20,10 @@ onStop() – Called when activity is not visible to user because some other acti
 onRestart() – Called when user comes on screen or resume the activity which was stopped
 
 onDestroy – Called when Activity is not in background
+
+
+##### Video
+
+<video width="320" height="240" controls>
+  <source src="screenshot/pic_5.2.mp4" type="video/mp4">
+</video>
