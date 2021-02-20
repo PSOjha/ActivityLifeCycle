@@ -24,6 +24,6 @@ onDestroy – Called when Activity is not in background
 
 #### Video
 
-<a href="https://imgflip.com/embed/4yrkmr"><img src="https://imgflip.com/gif/4yrkmr" "ActivityLifeCycle"/></a>
+<a href="https://imgflip.com/gif/4yrkmr"><img src="https://imgflip.com/embed/4yrkmr" "ActivityLifeCycle"/></a>
 
 
